@@ -1,0 +1,3 @@
+cat filename | grep name 
+ls -al
+mkdir testology
